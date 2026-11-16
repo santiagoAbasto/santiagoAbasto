@@ -9,7 +9,7 @@ Diseño, construyo y despliego el producto completo: backend, frontend, móvil, 
 
 <br/>
 
-[![Portafolio — 61 proyectos](https://img.shields.io/badge/%F0%9F%93%82%20Portafolio%20%E2%80%94%2061%20proyectos-0ea5e9?style=for-the-badge)](https://github.com/santiagoAbasto/portfolio-santiago-abasto)&nbsp;&nbsp;[![Burrow Labs](https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20Burrow%20Labs-6366f1?style=for-the-badge)](https://burrowlabs.com.bo)
+[![Portafolio — 61 proyectos](https://img.shields.io/badge/%F0%9F%93%82%20Portafolio%20%E2%80%94%2061%20proyectos-0ea5e9?style=for-the-badge)](https://github.com/santiagoAbasto/portfolio-santiago-abasto)&nbsp;&nbsp;[![Burrow Labs](https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20Burrow%20Labs-6366f1?style=for-the-badge)](https://burrowlabs.com.bo)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoabasto/)
 
 </div>
 
