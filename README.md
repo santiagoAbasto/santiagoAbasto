@@ -9,20 +9,22 @@ Diseño, construyo y despliego el producto completo: backend, frontend, móvil, 
 
 <br/>
 
-[![Portafolio — 61 proyectos](https://img.shields.io/badge/%F0%9F%93%82%20Portafolio%20%E2%80%94%2061%20proyectos-0ea5e9?style=for-the-badge)](https://github.com/santiagoAbasto/portfolio-santiago-abasto)&nbsp;&nbsp;[![Burrow Labs](https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20Burrow%20Labs-6366f1?style=for-the-badge)](https://burrowlabs.com.bo)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoabasto/)
+<a href="https://github.com/santiagoAbasto/portfolio-santiago-abasto"><img src="docs/btn-portafolio.svg" height="46" alt="Portafolio — 61 proyectos"></a>
+<a href="https://burrowlabs.com.bo"><img src="docs/btn-burrow.svg" height="46" alt="Burrow Labs"></a>
+<a href="https://www.linkedin.com/in/santiagoabasto/"><img src="docs/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
 
 </div>
 
 ---
 
-### 🧩 En qué ayudo
+### <img src="docs/ic-ayudo.svg" width="22" height="22" alt=""> En qué ayudo
 
 - **Sistemas de gestión, POS y ERP** a medida — inventario, caja, ventas y reportes en un solo lugar.
 - **E-commerce y catálogos industriales** — multimoneda, multilenguaje y listos para producción.
 - **Automatización e IA aplicada** — asistentes, análisis de datos y procesos que dejan de depender de planillas.
 - **Apps móviles (iOS/Android) y sitios web** — de principio a fin: diseño, desarrollo y despliegue.
 
-### 🛠️ Stack
+### <img src="docs/ic-stack.svg" width="22" height="22" alt=""> Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -36,17 +38,17 @@ Diseño, construyo y despliego el producto completo: backend, frontend, móvil, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 📊 En números
+### <img src="docs/ic-numeros.svg" width="22" height="22" alt=""> En números
 
 - **61 proyectos** documentados con arquitectura, flujos y decisiones técnicas.
 - **251 diagramas** de arquitectura, flujos de trabajo, estados y modelos de datos.
-- Sistemas en **producción** para negocios reales en Bolivia 🇧🇴.
+- Sistemas en **producción** para negocios reales en Bolivia.
 
 <div align="center">
 <br/>
 
 **¿Tu empresa necesita ordenar su operación?**
 
-[**→ Ver el portafolio completo**](https://github.com/santiagoAbasto/portfolio-santiago-abasto)
+[**Ver el portafolio completo →**](https://github.com/santiagoAbasto/portfolio-santiago-abasto)
 
 </div>
